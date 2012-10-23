@@ -16,6 +16,7 @@ OpenGLの共通する基本部分をまとめておく
 -----
 
 - [GLUT] GLUTのみの基本的な記述
+    - ![画像1](https://raw.github.com/akaqma/GLTemplate/master/_images/GLUT_1.png "画像のタイトル")
 - [GL2CV] OpenGLの描画データをOpenCVのデータとして渡す
+- [CV2GL] OpenCVで読み込んだデータをGLでテクスチャとして貼り付ける
 
-- ![画像1](https://raw.github.com/akaqma/GLTemplate/master/_images/GLUT_1.png "画像のタイトル")
