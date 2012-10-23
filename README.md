@@ -16,7 +16,7 @@ OpenGLの共通する基本部分をまとめておく
 -----
 - GLUT
     GLUTのみの基本的な記述
-    .. image:: _images/GLUT_1.png
+    (https://github.com/akaqma/GLTemplate/tree/master/_images/GLUT_1.png "画像のタイトル")
 
 - GLUT+OpenCV
     OpenCVで処理を行い，GLUTで描画を行う
